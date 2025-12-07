@@ -1,0 +1,24 @@
+# Sagaing Fault Plate Reconstruction - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core plate reconstruction library
+gplately>=1.0.0
+
+# Low-level GPlates Python API
+pygplates>=1.0.0
+
+# Cartographic projections and mapping
+cartopy>=0.20.0
+
+# Plotting and animation
+matplotlib>=3.5.0
+
+# Numerical operations
+numpy>=1.20.0
+
+# Optional: for Jupyter notebook support
+ipython>=7.0.0
+jupyter>=1.0.0
+
+# Optional: for GeoJSON export
+geojson>=2.5.0

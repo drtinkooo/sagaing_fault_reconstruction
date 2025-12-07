@@ -1,0 +1,108 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Ko Oo"
+    given-names: "Tin"
+    email: "tin.koo@mahidol.ac.th"
+    affiliation: "Mahidol University, Thailand"
+    orcid: ""
+title: "Sagaing Fault Plate Reconstruction"
+version: 1.0.0
+date-released: 2025-01-01
+url: "https://github.com/YOUR_USERNAME/sagaing-fault-reconstruction"
+repository-code: "https://github.com/YOUR_USERNAME/sagaing-fault-reconstruction"
+license: MIT
+type: software
+keywords:
+  - Sagaing Fault
+  - Myanmar
+  - plate tectonics
+  - strike-slip fault
+  - GPlates
+  - plate reconstruction
+  - seismic hazard
+  - animation
+  - geoscience
+  - Python
+abstract: >-
+  A Python tool for visualizing the tectonic evolution of Myanmar's 
+  Sagaing Fault through plate reconstruction. The animation shows 
+  the fault's formation (~22 Ma) and evolution to present day, 
+  including cumulative displacement tracking and regional tectonic 
+  context. Built using GPlately and the Müller et al. (2019) 
+  global plate model.
+references:
+  - type: article
+    authors:
+      - family-names: "Müller"
+        given-names: "R. Dietmar"
+      - family-names: "Zahirovic"
+        given-names: "Sabin"
+      - family-names: "Williams"
+        given-names: "Simon E."
+      - family-names: "Cannon"
+        given-names: "John"
+      - family-names: "Seton"
+        given-names: "Maria"
+      - family-names: "Bower"
+        given-names: "Dan J."
+      - family-names: "Tetley"
+        given-names: "Michael G."
+      - family-names: "Heine"
+        given-names: "Christian"
+      - family-names: "Le Breton"
+        given-names: "Eline"
+      - family-names: "Liu"
+        given-names: "Shaofeng"
+      - family-names: "Russell"
+        given-names: "Samuel H. J."
+      - family-names: "Yang"
+        given-names: "Ting"
+      - family-names: "Leonard"
+        given-names: "Jonathon"
+      - family-names: "Gurnis"
+        given-names: "Michael"
+    title: "A global plate model including lithospheric deformation along major rifts and orogens since the Triassic"
+    journal: "Tectonics"
+    volume: 38
+    pages: "1884-1907"
+    year: 2019
+    doi: "10.1029/2018TC005462"
+  - type: article
+    authors:
+      - family-names: "Sloan"
+        given-names: "R. A."
+      - family-names: "Elliott"
+        given-names: "J. R."
+      - family-names: "Searle"
+        given-names: "M. P."
+      - family-names: "Morley"
+        given-names: "C. K."
+    title: "Active tectonics of Myanmar and the Andaman Sea"
+    journal: "Geological Society, London, Memoirs"
+    volume: 48
+    pages: "19-52"
+    year: 2017
+    doi: "10.1144/M48.2"
+  - type: article
+    authors:
+      - family-names: "Socquet"
+        given-names: "Anne"
+      - family-names: "Pubellier"
+        given-names: "Manuel"
+    title: "Cenozoic deformation in western Yunnan and Indochina"
+    journal: "Tectonophysics"
+    volume: 391
+    pages: "145-158"
+    year: 2005
+    doi: "10.1016/j.tecto.2005.06.001"
+  - type: article
+    authors:
+      - family-names: "Curray"
+        given-names: "Joseph R."
+    title: "Tectonics and history of the Andaman Sea region"
+    journal: "Journal of Asian Earth Sciences"
+    volume: 25
+    pages: "187-232"
+    year: 2005
+    doi: "10.1016/j.jseaes.2004.09.001"
